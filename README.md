@@ -41,6 +41,7 @@ The argument of the talk is that hackathons are not just outreach events. They c
 ## Repository Contents
 
 - [Presentation slides](AI-Research-Day-Presentation-Daniel-Sikar-Dave-Muir.pdf)
+- [Presentation slides (.pptx)](AI-Research-Day-Presentation-Daniel-Sikar-Dave-Muir.pptx)
 
 ## Interested in Exploring Something Similar?
 
